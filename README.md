@@ -9,3 +9,5 @@ Score-Based Challenge Rankings Players can compete on leaderboards based on mini
 ![491506428-3e1cc3b5-b955-4ac0-9db4-0d519b650560](https://github.com/user-attachments/assets/0875e98c-1fdd-44be-a117-0754d7e8133a)
 
 ![491506454-31f926fc-2b79-45fa-9841-4b32657850f7](https://github.com/user-attachments/assets/c5fad593-f076-4cf4-b456-c6691d845c8e)
+
+![Uploading 4.jpg…]()
